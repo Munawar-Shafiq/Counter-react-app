@@ -1,0 +1,21 @@
+.p-3{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+.p-3 h1 {
+  font-size: 34px;
+  color: white;
+}
+.heading{
+  height: 200px;
+  width: 250px;
+  background-color: rgb(162, 89, 177);
+  border-radius: 5px;
+  padding-top: 5px;
+  text-align: center;
+  align-items: center;
+}
